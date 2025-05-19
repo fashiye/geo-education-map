@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const AMAP_API_KEY = '46eaf29c2fb11c5c66f7583d7f451995'; // 替换为你的高德API Key
+const AMAP_API_KEY = '*********************'; // 替换为你的高德API Key
 const AMAP_BASE_URL = 'https://restapi.amap.com/v3';
 
 /**
