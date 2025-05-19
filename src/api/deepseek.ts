@@ -5,7 +5,7 @@ interface DeepSeekResponse {
 }
 
 export async function getGeoDescription(cityName: string, amapInfo: any) {
-  const apiKey = 'sk-6b17e3f2ff354b01b7eb0ec02bc4cd46';
+  const apiKey = 'sk-***************************';
   const prompt = `请用简明的语言介绍${cityName}的地理特征，参考以下信息：${JSON.stringify(amapInfo)}`;
   const res = await axios.post(
     'https://api.deepseek.com/v1/chat/completions',
