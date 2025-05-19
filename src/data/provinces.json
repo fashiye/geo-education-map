@@ -1,0 +1,65 @@
+[
+    {
+        "name": "辽宁省",
+        "code": "LIAONING",
+        "cities": [
+            {
+                "name": "沈阳市",
+                "code": "SHENYANG"
+            },
+            {
+                "name": "大连市",
+                "code": "DALIAN"
+            },
+            {
+                "name": "鞍山市",
+                "code": "ANSHAN"
+            },
+            {
+                "name": "抚顺市",
+                "code": "FUSHUN"
+            },
+            {
+                "name": "本溪市",
+                "code": "BENXI"
+            },
+            {
+                "name": "丹东市",
+                "code": "DANDONG"
+            },
+            {
+                "name": "锦州市",
+                "code": "JINZHOU"
+            },
+            {
+                "name": "营口市",
+                "code": "YINGKOU"
+            },
+            {
+                "name": "阜新市",
+                "code": "FUXIN"
+            },
+            {
+                "name": "辽阳市",
+                "code": "LIAOYANG"
+            },
+            {
+                "name": "盘锦市",
+                "code": "PANJIN"
+            },
+            {
+                "name": "铁岭市",
+                "code": "TIELING"
+            },
+            {
+                "name": "朝阳市",
+                "code": "CHAOYANG"
+            },
+            {
+                "name": "葫芦岛市",
+                "code": "HULUDAO"
+            }
+        ],
+        "introduction": "辽宁省位于中国东北地区，是一个经济发达的省份，拥有丰富的自然资源和文化遗产。"
+    }
+]
